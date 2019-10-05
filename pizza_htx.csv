@@ -1,0 +1,51 @@
+,index,coordinates.latitude,coordinates.longitude,location.display_address,name,price,rating,review_count
+0,2,29.73823,-95.41208,"['2129 W Alabama St', 'Houston, TX 77098']",Fabio's Artisan Pasta,$$,5.0,244
+1,33,29.74651,-95.39033,"['805 Pacific St', 'Houston, TX 77006']",Postino Montrose,,5.0,8
+2,25,29.79333,-95.35928,"['811 Collingsworth St', 'Houston, TX 77009']",Rocco's,$$,4.5,55
+3,36,29.7287262957213,-95.4316117488783,"['3277 Southwest Fwy', 'Ste A', 'Houston, TX 77027']",Fresco Cafe Italiano,$$,4.5,170
+4,5,29.7323697055943,-95.4381511442779,"['3773 Richmond Ave', 'Ste 1A', 'Houston, TX 77046']",Mia Bella Trattoria,$$,4.5,352
+5,22,29.73764,-95.33956,"['4105 Leeland St', 'Houston, TX 77023']",Mandola's Deli,$,4.5,269
+6,45,29.736722,-95.59463,"['12126 Westheimer Rd', 'Ste 98', 'Houston, TX 77077']",Creed Italian Restaurant & Bar,$$,4.5,67
+7,30,29.8898572957493,-95.5826705374774,"['17402 Northwest Fwy', 'Jersey Village, TX 77040']",Adriatic Cafe  Italian Grill,$$,4.5,520
+8,41,29.62409,-95.71922,"['815 Plantation Dr', 'Ste 180', 'Richmond, TX 77406']",Lomonte's Italian Restaurant & Pizzeria,$$,4.5,264
+9,11,29.7572378866031,-95.3574474900742,"['1515 Texas Ave', 'Houston, TX 77002']",Potente,$$$,4.5,197
+10,37,29.7617656683504,-95.3621810104161,"['409 Travis St', 'Houston, TX 77002']",BOH Pasta & Pizza,,4.5,26
+11,28,29.74313,-95.397814,"['1520 Westheimer Rd', 'Houston, TX 77006']",Da Marco,$$$$,4.0,324
+12,29,29.5777702331543,-95.1404571533203,"['1001 Pineloch Dr', 'Ste 1100', 'Houston, TX 77062']",Grazia Italian Kitchen,$$,4.0,229
+13,31,29.7534684960069,-95.3641167312134,"['1201 Caroline St', 'Ste 161', 'Houston, TX 77002']",Mia Bella Trattoria,$$,4.0,278
+14,34,29.78306,-95.3985299,"['642 Yale St', 'Ste A', 'Houston, TX 77007']",Postino Heights,$$,4.0,386
+15,35,29.7389786,-95.4134581,"['2202 W Alabama St', 'Houston, TX 77098']",Bollo Woodfired Pizza,$$,4.0,568
+16,39,29.7381940494014,-95.4363139242039,"['3641 W Alabama St', 'Houston, TX 77027']",Mina Ristorante,,4.0,9
+17,38,29.5463748,-95.1058725,"['1041 Nasa Pkwy', 'Houston, TX 77058']",Frenchie's,$$,4.0,271
+18,26,29.7364881579311,-95.4183509045328,"['3115 Kirby Dr', 'Houston, TX 77098']",Carrabba's - The Original on Kirby,$$,4.0,441
+19,40,29.76099,-95.42052,"['5801 Memorial Dr', 'Ste E', 'Houston, TX 77007']",Piada Italian Street Food,$,4.0,362
+20,43,29.8062839508057,-95.4220886230469,"['2220 Bevis St', 'Houston, TX 77008']",Crisp,$$,4.0,846
+21,44,29.775061,-95.409362,"['1608 Shepherd Dr', 'Houston, TX 77007']",Spaghetti Western Italian Cafe,$$,4.0,274
+22,46,29.7380757,-95.4752726,"['5640 Westheimer Rd', 'Houston, TX 77056']",Corelli's Italian Cafe,$$,4.0,117
+23,47,29.75356,-95.40889,"['2002 W Gray St', 'Houston, TX 77019']",La Griglia,$$$,4.0,319
+24,48,29.7144304,-95.4548667,"['4566 Bissonnet St', 'Bellaire, TX 77401']",Enoteca Rossa,$$,4.0,176
+25,27,29.7444128,-95.3867141,"['415 Westheimer Rd', 'Houston, TX 77006']",Sorrento Ristorante Italiano,$$$,4.0,301
+26,0,29.74605,-95.39248,"['1117 Missouri St', 'Houston, TX 77006']",Riva's Italian Restaurant,$$,4.0,508
+27,1,29.7485868638914,-95.4620253208921,"['1700 Post Oak Blvd', 'Ste 190', 'Houston, TX 77056']",North Italia,$$,4.0,1499
+28,24,29.7574509,-95.3579026,"['1515 Texas Ave', 'Houston, TX 77002']",Osso & Kristalla,$$,4.0,233
+29,3,29.7149,-95.41475,"['2347 University Blvd', 'Houston, TX 77005']",Roma,$$,4.0,66
+30,4,29.742032,-95.423718,"['3215 Westheimer Rd', 'Houston, TX 77098']",Giacomo's Cibo e Vino,$$,4.0,497
+31,6,29.7817,-95.39371,"['3320 White Oak Dr', 'Houston, TX 77007']",Coltivare,$$,4.0,813
+32,7,29.76912,-95.4021,"['813 Jackson Hill St', 'Houston, TX 77007']",Patrenella's,$$,4.0,345
+33,8,29.760168,-95.365059,"['700 Milam St', 'Houston, TX 77002']",Perbacco,$$,4.0,166
+34,9,29.804596,-95.381574,"['1848 Airline Dr', 'Houston, TX 77009']",Bellissimo Ristorante,$$,4.0,209
+35,10,29.744775,-95.38742,"['500 Westheimer Rd', 'Houston, TX 77006']",Dolce Vita,$$,4.0,712
+36,12,29.7827472686768,-95.642463684082,"['14510 Grisby Rd', 'Houston, TX 77079']",Lomonte's Italian Restaurant and Bar,$$,4.0,171
+37,13,29.7539178,-95.3571966,"['1001 Avenida De Las Americas', 'Ste A', 'Houston, TX 77010']",Grotto Downtown,$$,4.0,316
+38,14,29.7428749,-95.4064275,"['1834 Westheimer Rd', 'Houston, TX 77098']",Paulie's,$$,4.0,771
+39,15,29.7389991526496,-95.4903902865082,"['6100 Westheimer Rd', 'Ste 140', 'Houston, TX 77057']",Amalfi Ristorante Italiano & Bar,$$$,4.0,179
+40,16,29.725282,-95.413276,"['2311 Bissonnet St', 'Houston, TX 77005']",Antica Osteria,$$$,4.0,310
+41,17,29.74287233551,-95.3798845184326,"['3201 Louisiana St', 'Ste 103', 'Houston, TX 77006']",Piola,$$,4.0,580
+42,18,29.71598,-95.4153504,"['5510 Morningside Dr', 'Ste 140', 'Houston, TX 77005']",D'Amico's Italian Market Cafe,$$,4.0,356
+43,19,29.74476,-95.3893499,"['608 Westheimer Rd', 'Houston, TX 77006']",Vinoteca Poscol,$$,4.0,116
+44,20,29.5590781202424,-95.3657707648061,"['9415 Broadway', 'Ste 103', 'Pearland, TX 77584']",Grazia Italian Kitchen,$$,4.0,756
+45,21,29.74437,-95.3797,"['3011 Smith St', 'Houston, TX 77006']",Damian's Cucina Italiana,$$$,4.0,211
+46,23,29.74936,-95.60649,"['1722 S Dairy Ashford St', 'Houston, TX 77077']",George's Pastaria,$$,4.0,231
+47,49,29.737821,-95.459841,"['4925 W Alabama St', 'Houston, TX 77056']",Piatto Ristorante,$$,4.0,123
+48,42,29.74507,-95.460509,"['2019 Post Oak Blvd', 'Houston, TX 77056']",Maggiano's Little Italy,$$,3.5,630
+49,32,29.8052,-95.42883,"['2120 Ella Blvd', 'Houston, TX 77008']",Cavatore Italian Restaurant,$$,3.5,338
